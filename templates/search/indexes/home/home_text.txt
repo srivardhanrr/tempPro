@@ -1,0 +1,4 @@
+{{ object.name }}
+{{ object.address }}
+{{ object.city }}
+{{ object.location }}

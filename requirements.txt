@@ -1,0 +1,7 @@
+Django~=4.2.4
+django-haystack[elasticsearch]~=3.2.1
+psycopg2-binary
+django-extensions
+python-decouple
+whitenoise
+social-auth-app-django
